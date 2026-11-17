@@ -57,7 +57,7 @@ Perancangan website **MentalUX** dengan pendekatan **Design Thinking**, dilengka
 - **Fokus:** riset pengguna, desain antarmuka, model bisnis
 - **Tech:** Figma, Design Thinking, BMC
 
-### 4. - 🌍 **Global Commodity Trade Analysis & Visualization (2010–2016)** — *BI & Dashboard Developer*  
+### 4. 🌍 **Global Commodity Trade Analysis & Visualization (2010–2016)** — *BI & Dashboard Developer*  
   * **Data Preparation & Transformation:** Processed the United Nations Comtrade (*Global Commodity Trade Statistics*) dataset by filtering temporal scopes (2010–2016), cleaning missing/duplicate records, and creating custom calculated fields (`Trade Direction` mapping Import/Export into Inbound/Outbound flows).
   * **Multi-Dashboard Architecture:** Designed and built **3 core interactive dashboards** in **Tableau** covering *Global Geographic Trade Distribution* (Choropleth World Map & Ranking Bar Chart), *Temporal Trade Value Trends* (Multi-Series Line Chart, Area Chart, & Highlight Table), and *Dominant Commodity Composition* (Bubble Chart & Category Distribution).
   * **Interactive Data Storytelling:** Integrated dynamic filters, tooltips, and visual highlights into a cohesive Tableau Story to explore global trade concentration, food security commodities, and market fluctuations across countries.
@@ -67,6 +67,18 @@ Perancangan website **MentalUX** dengan pendekatan **Design Thinking**, dilengka
     <img src="https://img.shields.io/badge/📊_View_Dashboard-Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public Dashboard" />
   </a>
 </p>
+
+### 5.🎓 Data Warehouse for Scopus Publication Analytics
+A data warehouse and Power BI analytics project that consolidates lecturer master data and Scopus export files at **Universitas Multimedia Nusantara** (2020-2025) into a single source of truth for monitoring research performance. Built as a team for the **IS545** course.
+
+- **ETL & Data Quality:** Built an end-to-end ETL pipeline in **Power Query**, covering data cleansing (name standardization, lecturer and publication deduplication) and data conforming (standardized publication types, venues, and CiteScore quartiles).
+- **Dimensional Modeling:** Designed a **star schema** with fact tables (FactPublication, FactPublicationAuthor) and conformed dimensions (lecturer, study program, faculty, venue, publication type, date), including surrogate keys and Slowly Changing Dimensions.
+- **Dashboards:** Built a **Power BI** semantic model and interactive reports for quartile performance by faculty, publication trends per study program, and cross-program collaboration.
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-0EA5E9?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL%20%7C%20Star%20Schema-4B5563?style=flat-square)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-4B5563?style=flat-square)
 
 ## 📫 Let's Connect
 
