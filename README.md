@@ -81,7 +81,7 @@ Tinjauan pustaka sistematis tentang penerapan Machine Learning untuk klasifikasi
 ## 📫 Let's Connect
 
 Terbuka untuk diskusi, kolaborasi proyek, maupun peluang magang.
-- 💼 LinkedIn: [https://www.linkedin.com/in/hanif-afan-harits-b371ba277/](https://www.linkedin.com/in/hanif-afan-harits-b371ba277/)
+- 💼 LinkedIn: [hanif-afan-harits](https://www.linkedin.com/in/hanif-afan-harits-b371ba277/)
 
 ---
 
