@@ -43,21 +43,13 @@ Membandingkan dua model deteksi objek modern, **YOLOv12** dan **RT-DETR**, untuk
 - **Fokus:** perbandingan akurasi dan performa kedua arsitektur
 - **Tech:** Python, PyTorch, YOLOv12, RT-DETR
 
-### 2. 🧩 IT Service Management: Incident Management nexSOFT
-**Mata kuliah:** IT Service Management (IS589) · **Jenis:** Proyek kelompok UTS
-
-Analisis dan perancangan proses *incident management* untuk nexSOFT dengan mengacu pada kerangka kerja **ITIL 4**.
-
-- **Fokus:** identifikasi masalah, alur penanganan insiden, praktik ITIL 4
-- **Output:** laporan lengkap hingga Bab III
-
-### 3. 🧠 MentalUX: Website Kesehatan Mental
+### 2. 🧠 MentalUX: Website Kesehatan Mental
 Perancangan website **MentalUX** dengan pendekatan **Design Thinking**, dilengkapi **Business Model Canvas** serta strategi inovasi dan pemasaran.
 
 - **Fokus:** riset pengguna, desain antarmuka, model bisnis
 - **Tech:** Figma, Design Thinking, BMC
 
-### 4. 🌍 **Global Commodity Trade Analysis & Visualization (2010–2016)** — *BI & Dashboard Developer*  
+### 3. 🌍 **Global Commodity Trade Analysis & Visualization (2010–2016)** — *BI & Dashboard Developer*  
   * **Data Preparation & Transformation:** Processed the United Nations Comtrade (*Global Commodity Trade Statistics*) dataset by filtering temporal scopes (2010–2016), cleaning missing/duplicate records, and creating custom calculated fields (`Trade Direction` mapping Import/Export into Inbound/Outbound flows).
   * **Multi-Dashboard Architecture:** Designed and built **3 core interactive dashboards** in **Tableau** covering *Global Geographic Trade Distribution* (Choropleth World Map & Ranking Bar Chart), *Temporal Trade Value Trends* (Multi-Series Line Chart, Area Chart, & Highlight Table), and *Dominant Commodity Composition* (Bubble Chart & Category Distribution).
   * **Interactive Data Storytelling:** Integrated dynamic filters, tooltips, and visual highlights into a cohesive Tableau Story to explore global trade concentration, food security commodities, and market fluctuations across countries.
@@ -68,7 +60,7 @@ Perancangan website **MentalUX** dengan pendekatan **Design Thinking**, dilengka
   </a>
 </p>
 
-### 5.🎓 Data Warehouse for Scopus Publication Analytics
+### 4.🎓 Data Warehouse for Scopus Publication Analytics
 A data warehouse and Power BI analytics project that consolidates lecturer master data and Scopus export files at **Universitas Multimedia Nusantara** (2020-2025) into a single source of truth for monitoring research performance. Built as a team for the **IS545** course.
 
 - **ETL & Data Quality:** Built an end-to-end ETL pipeline in **Power Query**, covering data cleansing (name standardization, lecturer and publication deduplication) and data conforming (standardized publication types, venues, and CiteScore quartiles).
