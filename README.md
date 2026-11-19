@@ -1,10 +1,8 @@
 <div align="center">
 
-# Halo, saya Hanif Afan Harits 👋
+# Hello There!, I'm Hanif Afan Harits 👋
 
 **Mahasiswa Sistem Informasi @ Universitas Multimedia Nusantara (UMN)**
-
-Berminat pada Machine Learning, Computer Vision, Project Management, IT Service Management, dan UI/UX.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanif-afan-harits-b371ba277/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL-KAMU@gmail.com)
@@ -14,11 +12,9 @@ Berminat pada Machine Learning, Computer Vision, Project Management, IT Service 
 
 ---
 
-## 👤 Tentang Saya
+## 👤 About Me
 
-Saya mahasiswa Sistem Informasi semester 5 di UMN yang senang mengerjakan hal-hal di perbatasan antara teknologi dan bisnis. Pengalaman saya mencakup melatih model deteksi objek, merancang pengalaman pengguna untuk sebuah platform, sampai membangun dashboard dan data warehouse untuk analisis data.
-
-Saat ini saya sedang menyusun riset skripsi tentang klasifikasi jalur karier menggunakan Machine Learning.
+*
 
 ## 🎓 Pendidikan
 
