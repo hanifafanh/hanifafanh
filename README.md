@@ -28,7 +28,58 @@
 
 ## 🛠️ Skills & Tools
 
-<table> <tr> <th align="left" width="260">Category</th> <th align="left">Tools</th> </tr> <tr> <td><b>💻 Languages & Data Manipulation</b></td> <td> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> </td> </tr> <tr> <td><b>🤖 Machine Learning & AI</b></td> <td> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" /> </td> </tr> <tr> <td><b>📊 Business Intelligence & Visualization</b></td> <td> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Power%20Query-F2C811?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logoColor=white" /> </td> </tr> <tr> <td><b>🏗️ Data Warehouse & System Analysis</b></td> <td> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/ETL-0EA5E9?style=flat-square" /> <img src="https://img.shields.io/badge/UML-0EA5E9?style=flat-square" /> </td> </tr> <tr> <td><b>🧰 Development Tools</b></td> <td> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /> </td> </tr> </table>
+<table>
+  <tr>
+    <th align="left" width="260">Category</th>
+    <th align="left">Tools</th>
+  </tr>
+  <tr>
+    <td><b>💻 Languages & Data Manipulation</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🤖 Machine Learning & AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>📊 Business Intelligence & Visualization</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+      <img src="https://img.shields.io/badge/Power%20Query-F2C811?style=flat-square&logoColor=black" />
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
+      <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🏗️ Data Warehouse & System Analysis</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+      <img src="https://img.shields.io/badge/ETL-0EA5E9?style=flat-square" />
+      <img src="https://img.shields.io/badge/UML-0EA5E9?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🧰 Development Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
