@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=220&section=header&text=Hanif%20Afan%20Harits&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Information%20Systems%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Business%20Intelligence&descSize=18&descAlignY=60" alt="Header" />
 
-<a href="https://github.com/USERNAME-KAMU">
+<a href="https://www.instagram.com/hanifafanh">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=700&lines=Hello+There!+%F0%9F%91%8B;Information+Systems+Student+%40+UMN;Turning+data+into+decisions;Building+ML+models+%26+BI+dashboards" alt="Typing animation" />
 </a>
 
@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanif-afan-harits-b371ba277/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL-KAMU@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME-KAMU)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hanifafanh)
 
 </div>
 
