@@ -77,16 +77,6 @@
 
 ## 🚀 Featured Projects
 
-| # | Project | Summary | Tech & Links |
-|:-:|---------|---------|--------------|
-| 1 | **🪖 Helmet Detection on Motorcyclists**<br/>*YOLOv12 vs RT-DETR* | Compares two modern object detectors for helmet-use detection, benchmarked against Faster R-CNN, YOLOv8, and YOLOv11 using the CRISP-DM framework. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-4B5563?style=flat-square) |
-| 2 | **🧠 MentalUX**<br/>*Online Psychology Consultation Platform* | A website connecting users with verified psychologists, supporting SDG 3. Covers Design Thinking research, a Business Model Canvas, and a 27+ screen Figma prototype. | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Design Thinking](https://img.shields.io/badge/Design%20Thinking-7C3AED?style=flat-square) ![BMC](https://img.shields.io/badge/BMC-2563EB?style=flat-square) |
-| 3 | **🏍️ CRT APP**<br/>*Adventure Motorcycle Dealer Mobile App* | A mobile sales app design for a motocross and adventure dealer, from UML system analysis to an interactive Figma prototype. Rated 4.47 / 5 in user testing. | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![UML](https://img.shields.io/badge/UML-0EA5E9?style=flat-square) ![Prototyping](https://img.shields.io/badge/Prototyping-FF6600?style=flat-square) |
-| 4 | **🌍 Global Commodity Trade Analysis (2010–2016)**<br/>*BI & Dashboard Developer* | Three interactive Tableau dashboards and a data story on global trade patterns, built from the UN Comtrade dataset. | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)<br/><a href="https://public.tableau.com/views/AnalisisdanVisualisasiPerdaganganKomoditasGlobal20102016/STORYFIX?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">📊 **View Dashboard**</a> |
-| 5 | **🎓 Scopus Publication Data Warehouse** | A star schema data warehouse and Power BI dashboards on UMN publications (2020–2025), fed by a Power Query ETL pipeline. | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![ETL](https://img.shields.io/badge/ETL%20%7C%20Star%20Schema-4B5563?style=flat-square) |
-| 6 | **🩺 Obesity Level Classification**<br/>*KNN + Gemini AI* | A Streamlit app that predicts obesity level across 7 categories with KNN and generates health insights using Gemini AI. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)<br/>[🚀 **Try the App**](https://obesity-classification-yp42tfpuzzbpf352cidgaa.streamlit.app) · [💻 **Repository**](https://github.com/Herjuna3008/Obesity-Classification) |
-<div align="center">
-
 <table>
   <tr>
     <td width="50%" valign="top">
