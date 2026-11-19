@@ -18,7 +18,7 @@
 
 ## 👤 About Me
 
-> *Hi, I'm Hanif. I like turning raw data into models and dashboards that people can actually use.*
+> *Hi, I'm Hanif. Here's a couple to get to know me better!.*
 
 * 🎓 Information Systems undergraduate student at **Universitas Multimedia Nusantara (UMN)**.
 * 🔭 Focused on **Machine Learning**, **Big Data Analytics**, and applying AI to real-world problems.
