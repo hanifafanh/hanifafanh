@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=220&section=header&text=Hanif%20Afan%20Harits&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Information%20Systems%20%E2%80%A2%20Big%20Data%20Analytics&descSize=18&descAlignY=60" alt="Header" />
 
 <a href="https://www.instagram.com/hanifafanh">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=700&lines=Hello+There!+%F0%9F%91%8B;Information+Systems+Student+%40+UMN;Specializing+in+Big+Data+Analytics" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=700&lines=Hello+There!;Information+Systems+Student+%40+UMN;Specializing+in+Big+Data+Analytics" alt="Typing animation" />
 </a>
 
 <br/>
