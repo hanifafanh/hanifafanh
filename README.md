@@ -44,7 +44,6 @@
     <td><b>🤖 Machine Learning & AI</b></td>
     <td>
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -54,7 +53,6 @@
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
       <img src="https://img.shields.io/badge/Power%20Query-F2C811?style=flat-square&logoColor=black" />
       <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
-      <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -69,8 +67,6 @@
   <tr>
     <td><b>🧰 Development Tools</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
     </td>
