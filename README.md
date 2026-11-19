@@ -55,7 +55,6 @@
     <td>
       <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-      <img src="https://img.shields.io/badge/Power%20Query-F2C811?style=flat-square&logoColor=black" />
       <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
       <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logoColor=white" />
     </td>
